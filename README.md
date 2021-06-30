@@ -6,9 +6,9 @@
 
 <h2>Construção da Página<h2>
 
-- [ ] Home
-- [ ] Jogos
-- [ ] Celulares
-- [ ] Informática
-- [ ] Eletrônicos
+- [ ] Index
 - [ ] Estilo CSS
+
+<h3>projeto concluido</h3>
+
+<p align="center">Este projeto é apenas para treinar as habilidades adquiridas em HTML e CSS3</p>
