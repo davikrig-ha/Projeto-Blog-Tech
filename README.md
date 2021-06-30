@@ -6,9 +6,9 @@
 
 <h2>Construção da Página<h2>
 
--[ ] Home
--[ ] Jogos
--[ ] Celulares
--[ ] Informática
--[ ] Eletrônicos
--[ ] Estilo CSS
+- [ ] Home
+- [ ] Jogos
+- [ ] Celulares
+- [ ] Informática
+- [ ] Eletrônicos
+- [ ] Estilo CSS
