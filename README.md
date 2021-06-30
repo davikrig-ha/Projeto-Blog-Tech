@@ -1,8 +1,8 @@
-<h1 aling="center">Projeto Tech Blog</h1> <hr>
+<h1 align="center">Projeto Tech Blog</h1> 
 
 <h2>Blog de tecnologia</h2>
 
-<p>Tecnologias uilizadas: HTML e CSS3</p> <hr>
+<p>Tecnologias uilizadas: HTML e CSS3</p> 
 
 <h2>Construção da Página<h2>
 
