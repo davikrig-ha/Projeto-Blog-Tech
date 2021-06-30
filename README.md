@@ -6,7 +6,7 @@
 
 <h2>Construção da Página<h2>
 
-- [ ] Index
+- [x] Index
 - [ ] Estilo CSS
 
 <h3>projeto concluido</h3>
